@@ -1,30 +1,41 @@
-## 👋 안녕! 나의 깃허브에 온 걸 환영해!
+## 👋 안녕!
 <p align="center">
   <img src="https://media.giphy.com/media/LmN8Nxq4V7xN3x6QvP/giphy.gif" alt="Welcome GIF" width="400"/>
   <!-- GIPHY나 imgur 같은 외부 링크도 가능! -->
 </p>
 
-### 🛠️ 내 기술 스택 (간지템!)
+### 🛠️ My Tech Stacks
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,java,js,html,premiere,aftereffects&theme=dark" /><br>
 </p>
 
-### 🛠️ My Tech Stacks
+<p align="left">
+  <!-- Python -->
+  <img src="https://skillicons.dev/icons?i=py" alt="Python" /> `Python` ⭐⭐⭐
+</p>
 
 <p align="left">
-  <!-- JavaScript (숙련) -->
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /> `JavaScript` (숙련) ⭐⭐⭐⭐
+  <!-- Java -->
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" /> `Java` ⭐⭐
 </p>
+
 <p align="left">
-  <!-- Python (능숙) -->
-  <img src="https://skillicons.dev/icons?i=py" alt="Python" /> `Python` (능숙) ⭐⭐⭐
+  <!-- JavaScript -->
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /> `JavaScript` ⭐
 </p>
+
 <p align="left">
-  <!-- React (숙련) -->
-  <img src="https://skillicons.dev/icons?i=react" alt="React" /> `React` (숙련) 🟩🟩🟩⬜⬜
+  <!-- HTML -->
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" /> `HTML` ⭐
 </p>
+
 <p align="left">
-  <!-- Spring Boot (학습 중) -->
-  <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" /> `Spring Boot` (학습 중) 🟩⬜⬜⬜⬜
+  <!-- Premiere Pro -->
+  <img src="https://skillicons.dev/icons?i=premiere" alt="Premiere Pro" /> `Premiere Pro` ⭐⭐⭐
+</p>
+
+<p align="left">
+  <!-- After Effects -->
+  <img src="https://skillicons.dev/icons?i=aftereffects" alt="After Effects" /> `After Effects` ⭐⭐
 </p>
