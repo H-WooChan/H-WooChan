@@ -1,17 +1,18 @@
 ## 👋 안녕하세요! 개발과 창작에 진심인 새내기입니다!
 
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/66004437-35bf-4911-ab72-4ab9f801eec0" alt="내 프로필 대표 사진" width="1500"/>
-</p>
-
-
-<p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge" />
   <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" alt="Premiere Pro Badge" />
   <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white" alt="After Effects Badge" />
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/66004437-35bf-4911-ab72-4ab9f801eec0" alt="내 프로필 대표 사진" width="1500"/>
 </p>
 
 
@@ -31,6 +32,7 @@
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=mail&logoColor=white" alt="Email Badge" />
   </a>
 </p>
+
 
 ### 🛠️ Proficiency in my tech stack ⭐⭐⭐⭐⭐
 
