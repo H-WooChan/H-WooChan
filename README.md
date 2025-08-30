@@ -1,7 +1,7 @@
 ## 👋 안녕!
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/66004437-35bf-4911-ab72-4ab9f801eec0" alt="내 프로필 대표 사진" width="500"/>
+  <img src="https://github.com/user-attachments/assets/66004437-35bf-4911-ab72-4ab9f801eec0" alt="내 프로필 대표 사진" width="1500"/>
 </p>
 
 <p align="left">
@@ -13,9 +13,6 @@
   <img src="https://img.shields.io/badge/After_Effects-9999FF?style=flat&logo=adobe-after-effects&logoColor=white" alt="After Effects Badge" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/994341a5-b809-40fe-8569-3175408d255a" alt="Welcome GIF" width="400"/>
-</p>
 
 ### 🛠️ Proficiency in my tech stack ⭐⭐⭐⭐⭐
 
@@ -47,4 +44,9 @@
 <p align="left">
   <!-- After Effects -->
   <img src="https://skillicons.dev/icons?i=aftereffects" alt=" After Effects" /> <span style="font-size:50px;">After Effects</span> ⭐⭐
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/994341a5-b809-40fe-8569-3175408d255a" alt="Welcome GIF" width="400"/>
 </p>
