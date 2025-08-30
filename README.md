@@ -17,20 +17,20 @@
 
 
 <p align="center">
-새로운 도전을 즐기며 배우고 성장하는 ESTP입니다.<br>
-깃허브에서 저의 열정과 프로젝트들을 만나보세요!
-저의 배움과 도전, 그리고 성장 스토리가 담긴 공간입니다.<br>
-저의 프로젝트들을 통해 개발/창작 이야기를 나눌 수 있다면 좋겠습니다.<br>
-언제든 편하게 연락 주세요!
-</p>
-
-<p align="center">
   <a href="https://www.instagram.com/h.woo__03/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
   </a>
   <a href="hwc0314@gmail.com">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=mail&logoColor=white" alt="Email Badge" />
   </a>
+</p>
+
+<p align="center">
+새로운 도전을 즐기며 배우고 성장하는 ESTP입니다.<br>
+깃허브에서 저의 열정과 프로젝트들을 만나보세요!
+저의 배움과 도전, 그리고 성장 스토리가 담긴 공간입니다.<br>
+저의 프로젝트들을 통해 개발/창작 이야기를 나눌 수 있다면 좋겠습니다.<br>
+언제든 편하게 연락 주세요!
 </p>
 
 
