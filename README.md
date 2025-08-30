@@ -4,9 +4,16 @@
   <!-- GIPHY나 imgur 같은 외부 링크도 가능! -->
 </p>
 
+### 🛠️ 내 기술 스택 (간지템!)
+
 <p align="left">
-  <img src="[https://skillicons.dev/icons?i=](https://skillicons.dev/icons?i=)py, java, js, html, pr, ae" /><br>
+  <img src="https://skillicons.dev/icons?i=py,java,js,html,premiererpro,aftereffects" />
 </p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py, java, js, html, pr, ae&theme=dark" /><br>
+</p>
+
 
 
 ### 🛠️ My Tech Stacks
