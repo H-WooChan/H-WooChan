@@ -4,6 +4,7 @@
   <img src="https://github.com/user-attachments/assets/66004437-35bf-4911-ab72-4ab9f801eec0" alt="내 프로필 대표 사진" width="1500"/>
 </p>
 
+
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python Badge" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java Badge" />
@@ -11,6 +12,18 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5 Badge" />
   <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white" alt="Premiere Pro Badge" />
   <img src="https://img.shields.io/badge/After_Effects-9999FF?style=flat&logo=adobe-after-effects&logoColor=white" alt="After Effects Badge" />
+</p>
+
+
+### 📫 Contact Me!
+
+<p align="left">
+  <a href="https://www.instagram.com/h.woo__03/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge" />
+  </a>
+  <a href="mailto:hwc0314@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=flat&logo=mail&logoColor=white" alt="Email Badge" />
+  </a>
 </p>
 
 
