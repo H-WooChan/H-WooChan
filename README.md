@@ -15,6 +15,9 @@
 </p>
 
 
+
+
+
 ### <h3 align="center">📫 Contact Me!</h3>
 
 <p align="center">
@@ -53,7 +56,7 @@
   <img src="https://skillicons.dev/icons?i=premiere" alt=" Premiere Pro" /> <span style="font-size:50px;">Premiere Pro</span> ⭐⭐⭐
 </p>
 
-<p align="left">
+### <p align="left">
   <!-- After Effects -->
   <img src="https://skillicons.dev/icons?i=aftereffects" alt=" After Effects" /> <span style="font-size:50px;">After Effects</span> ⭐⭐
 </p>
