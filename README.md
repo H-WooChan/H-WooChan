@@ -42,13 +42,13 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py" alt="Python" /> <span style="font-size:50px; font-weight: bold;">Python</span> ⭐⭐⭐
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
   <img src="https://skillicons.dev/icons?i=java" alt="Java" /> <span style="font-size:50px; font-weight: bold;">Java</span> ⭐⭐
 </p>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /> <span style="font-size:50px; font-weight: bold;">JavaScript</span> ⭐
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" /> <span style="font-size:50px; font-weight: bold;">HTML</span> ⭐
 </p>
 
