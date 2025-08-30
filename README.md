@@ -1,4 +1,4 @@
-## 👋 안녕!
+## 👋 안녕하세요! 개발과 창작에 진심인 새내기입니다!
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/66004437-35bf-4911-ab72-4ab9f801eec0" alt="내 프로필 대표 사진" width="1500"/>
@@ -15,10 +15,13 @@
 </p>
 
 
-
-
-
-### <h3 align="center">📫 Contact Me!</h3>
+<p align="center">
+새로운 도전을 즐기며 배우고 성장하는 ESTP입니다.<br>
+깃허브에서 저의 열정과 프로젝트들을 만나보세요!
+저의 배움과 도전, 그리고 성장 스토리가 담긴 공간입니다.<br>
+저의 프로젝트들을 통해 개발/창작 이야기를 나눌 수 있다면 좋겠습니다.<br>
+언제든 편하게 연락 주세요!
+</p>
 
 <p align="center">
   <a href="https://www.instagram.com/h.woo__03/" target="_blank">
@@ -56,7 +59,7 @@
   <img src="https://skillicons.dev/icons?i=premiere" alt=" Premiere Pro" /> <span style="font-size:50px;">Premiere Pro</span> ⭐⭐⭐
 </p>
 
-### <p align="left">
+<p align="left">
   <!-- After Effects -->
   <img src="https://skillicons.dev/icons?i=aftereffects" alt=" After Effects" /> <span style="font-size:50px;">After Effects</span> ⭐⭐
 </p>
