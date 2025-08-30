@@ -1,7 +1,7 @@
 ## 👋 안녕!
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/994341a5-b809-40fe-8569-3175408d255a" alt="내 프로필 대표 사진" width="500"/>
+  <img src="https://github.com/user-attachments/assets/66004437-35bf-4911-ab72-4ab9f801eec0" alt="내 프로필 대표 사진" width="500"/>
 </p>
 
 <p align="left">
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/66004437-35bf-4911-ab72-4ab9f801eec0" alt="Welcome GIF" width="400"/>
+  <img src="https://github.com/user-attachments/assets/994341a5-b809-40fe-8569-3175408d255a" alt="Welcome GIF" width="400"/>
 </p>
 
 ### 🛠️ Proficiency in my tech stack ⭐⭐⭐⭐⭐
