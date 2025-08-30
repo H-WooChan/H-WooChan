@@ -7,7 +7,7 @@
 ### 🛠️ 내 기술 스택 (간지템!)
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,java,js,html, premierepro,aftereffects" />
+  <img src="https://skillicons.dev/icons?i=py,java,js,html,premierepro,aftereffects" />
 </p>
 
 <p align="left">
