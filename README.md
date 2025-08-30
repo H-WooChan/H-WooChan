@@ -1,5 +1,9 @@
 ## 👋 안녕!
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/994341a5-b809-40fe-8569-3175408d255a" alt="내 프로필 대표 사진" width="500"/>
+</p>
+
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python Badge" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java Badge" />
@@ -10,8 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmN8Nxq4V7xN3x6QvP/giphy.gif" alt="Welcome GIF" width="400"/>
-  <!-- GIPHY나 imgur 같은 외부 링크도 가능! -->
+  <img src="https://github.com/user-attachments/assets/66004437-35bf-4911-ab72-4ab9f801eec0" alt="Welcome GIF" width="400"/>
 </p>
 
 ### 🛠️ Proficiency in my tech stack ⭐⭐⭐⭐⭐
