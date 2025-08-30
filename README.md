@@ -17,7 +17,7 @@
 
 ### <h3 align="center">📫 Contact Me!</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://www.instagram.com/h.woo__03/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
   </a>
