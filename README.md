@@ -37,6 +37,10 @@
 ### 🛠️ Proficiency in my tech stack ⭐⭐⭐⭐⭐
 
 <p align="left">
+  ⭐ 배우고 있는 단계 / ⭐⭐ 초급 / ⭐⭐⭐ 중급 / ⭐⭐⭐⭐ 숙련 / ⭐⭐⭐⭐⭐ 전문가
+</p>
+
+<p align="left">
   <!-- Python -->
   <img src="https://skillicons.dev/icons?i=py" alt=" Python" /> <span style="font-size:50px;">Python</span> ⭐⭐⭐
 </p>
