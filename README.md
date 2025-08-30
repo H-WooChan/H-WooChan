@@ -42,13 +42,13 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py" alt="Python" /> <span style="font-size:50px; font-weight: bold;">Python</span> ⭐⭐⭐
-  &emsp;&emsp;&emsp;&emsp;
+  &emsp;&emsp;&emsp;&emsp;&emsp;
   <img src="https://skillicons.dev/icons?i=java" alt="Java" /> <span style="font-size:50px; font-weight: bold;">Java</span> ⭐⭐
 </p>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /> <span style="font-size:50px; font-weight: bold;">JavaScript</span> ⭐
-  &emsp;&emsp;&emsp;&emsp;
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" /> <span style="font-size:50px; font-weight: bold;">HTML</span> ⭐
 </p>
 
@@ -56,4 +56,9 @@
   <img src="https://skillicons.dev/icons?i=premiere" alt="Premiere Pro" /> <span style="font-size:50px; font-weight: bold;">Premiere Pro</span> ⭐⭐⭐
   &emsp;&emsp;&emsp;&emsp;
   <img src="https://skillicons.dev/icons?i=aftereffects" alt="After Effects" /> <span style="font-size:50px; font-weight: bold;">After Effects</span> ⭐⭐
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/994341a5-b809-40fe-8569-3175408d255a" alt="Welcome GIF" width="400"/>
 </p>
