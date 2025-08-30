@@ -7,14 +7,8 @@
 ### 🛠️ 내 기술 스택 (간지템!)
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,java,js,html,premiere,aftereffects&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,java,js,html,premiere,aftereffects&theme=dark" /><br>
 </p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py, java, js, html, pr, ae&theme=dark" /><br>
-</p>
-
-
 
 ### 🛠️ My Tech Stacks
 
