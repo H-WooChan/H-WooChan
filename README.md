@@ -12,30 +12,30 @@
 ### 🛠️ Proficiency in my tech stack ⭐⭐⭐⭐⭐
 <p align="left">
   <!-- Python -->
-  <img src="https://skillicons.dev/icons?i=py" alt="Python" /> <span style="font-size:20px;"><strong>Python</strong></span> ⭐⭐⭐
+  <img src="https://skillicons.dev/icons?i=py" alt="Python" /> <span style="font-size:50px;">**Python**</span> ⭐⭐⭐
 </p>
 
 <p align="left">
   <!-- Java -->
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" /> <span style="font-size:20px;"><strong>Java</strong></span> ⭐⭐
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" /> <span style="font-size:50px;">**Java**</span> ⭐⭐
 </p>
 
 <p align="left">
   <!-- JavaScript -->
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /> <span style="font-size:20px;"><strong>JavaScript</strong></span> ⭐
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /> <span style="font-size:50px;">**JavaScript**</span> ⭐
 </p>
 
 <p align="left">
   <!-- HTML -->
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" /> <span style="font-size:20px;"><strong>HTML</strong></span> ⭐
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" /> <span style="font-size:50px;">**HTML**</span> ⭐
 </p>
 
 <p align="left">
   <!-- Premiere Pro -->
-  <img src="https://skillicons.dev/icons?i=premiere" alt="Premiere Pro" /> <span style="font-size:20px;"><strong>Premiere Pro</strong></span> ⭐⭐⭐
+  <img src="https://skillicons.dev/icons?i=premiere" alt="Premiere Pro" /> <span style="font-size:50px;">**Premiere Pro**</span> ⭐⭐⭐
 </p>
 
 <p align="left">
   <!-- After Effects -->
-  <img src="https://skillicons.dev/icons?i=aftereffects" alt="After Effects" /> <span style="font-size:20px;"><strong>After Effects</strong></span> ⭐⭐
+  <img src="https://skillicons.dev/icons?i=aftereffects" alt="After Effects" /> <span style="font-size:50px;">**After Effects**</span> ⭐⭐
 </p>
