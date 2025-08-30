@@ -21,11 +21,10 @@
   <a href="https://www.instagram.com/h.woo__03/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
   </a>
-  <a href="mailto:hwc0314@gmail.com">
+  <a href="hwc0314@gmail.com">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=mail&logoColor=white" alt="Email Badge" />
   </a>
 </p>
-
 
 ### 🛠️ Proficiency in my tech stack ⭐⭐⭐⭐⭐
 
